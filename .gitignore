@@ -5,6 +5,7 @@ __pycache__/
 venv/
 env/
 .env
+.env.*
 
 # Google API Credentials & Local Tokens (CRITICAL)
 credentials.json
@@ -17,3 +18,6 @@ config.json
 .streamlit/secrets.toml
 
 # temp testing files
+test*.py
+_old.py
+_debug.py
